@@ -15,4 +15,6 @@ Documents need to be written and edited - I made an empty project called whitepa
 
 If you dont understand github, google it. Foundations of git are great to have, I recommend: https://git-scm.com/book/en/v2
 
-Cheers Bruh's - I'll continue helping out but I won't (and cannot) do it alone.
+Cheers Bruh's - I'll continue helping out but I won't (and cannot) do it alone. 
+
+### Be sure to sign the [guest list](guestlist.md)
