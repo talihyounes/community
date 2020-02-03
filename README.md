@@ -3,7 +3,7 @@ Friends, start here!
 
 1st: Snowkid's commentary and introduction:
 
-This Orginazation is dedicated to WHACKD token, an idea that is based on bringing awareness to corruption and trust issues with the government. Aside from political issues, the idea of a meme token to reflect on this shows how trivial it seems to be, to the dismay of many. 
+This Orginazation is dedicated to WHACKD token, an idea that is based on bringing awareness to corruption and trust issues with the US government. Aside from political issues, the idea of a meme token to reflect on this shows how trivial it seems to be, to the dismay of many. 
 
 I didn't make WHACKD, but I am sure whoever did believes this. One person cannot make a movement. They must be created by the boots of many. Let's get off our asses and do something instead of watching from the sidelines on crypto twitter. Join the orginization, write an issue, make a pull request, fix a bug, make a project, take an action, but dont just fuck off on your couch watching football. 
 
